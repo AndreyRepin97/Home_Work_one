@@ -3,6 +3,6 @@ package ru.skypro;
 public class Main {
 
     public static void main(String[] args) {
-	// Complete homework1
+        System.out.println("Hello world");
     }
 }
